@@ -1,5 +1,6 @@
-#### Describe two of the more interesting program bugs you had in your projects in the past
-#### Do a “post-mortem” analysis of how you found them, why you think these bugs happened and what you could do to avoid them
+# Describe two of the more interesting program bugs you had in your projects in the past
+
+> Do a “post-mortem” analysis of how you found them, why you think these bugs happened and what you could do to avoid them
 
 
 Throughout our careers as programmers, we may encounter numerous bugs or errors. Some of them can be fixed in a few seconds; others take a lot of time from our lives. Sometimes, after finding hard or stupid mistakes, you can either hate yourself for the time lost or be proud of yourself because your analytical abilities have led to success.
