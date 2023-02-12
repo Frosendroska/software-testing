@@ -13,13 +13,15 @@ Therefore, I want to tell you about both kinds of bugs that I usually face:
 
 	- **How did you find them?**
 
-	This issue was found by my teacher because, after a lot of time spent on bug finding, it is becoming more and more impossible to find it with your blurry eyes. I attempted to write stress tests, but they only helped find errors in large amounts of data, not in small ones.
+	_This issue was found by my teacher because, after a lot of time spent on bug finding, it is becoming more and more impossible to find it with your blurry eyes. I attempted to write stress tests, but they only helped find errors in large amounts of data, not in small ones._
 
 	- **Why do you think these bugs happened?**
 
-	The primary cause of this bug is a simple lack of attention and time spent thinking about the 	algorithm.
+	_The primary cause of this bug is a simple lack of attention and time spent thinking about the algorithm._
 
 	- **What could you do to avoid them?**
+
+	_To avoid this problem, I could test my solution against all possible input sizes and spend more time thinking about all possible corner cases before implementing it. _
 
  
 
@@ -27,28 +29,28 @@ Therefore, I want to tell you about both kinds of bugs that I usually face:
 
 	- **How did you find them?**
 
-	Well, I found this particular mistake just because I have gained some more knowledge about the topic.
+	_Well, I found this particular mistake just because I have gained some more knowledge about the topic._
 
 	- **Why do you think these bugs happened?**
 
-	Unfortunately, this bug arose as a result of a misunderstanding of how certain functions work.
+	_Unfortunately, this bug arose as a result of a misunderstanding of how certain functions work._
 
 	- **Why do you think these bugs happened?**
 
-	To tell the truth, the best way to avoid this kind of issue is to be a better specialist. A deep understanding of the frameworks you are using can help you a lot in this direction.
+	_To tell the truth, the best way to avoid this kind of issue is to be a better specialist. A deep understanding of the frameworks you are using can help you a lot in this direction._
 
  
 
 3) The additional bug that I want to introduce is something that was fixed quickly and painlessly. During the implementation of pet-project: a web application to assist researchers in developing a neural network using an effortless visual constructor. We had a comparatively large application; therefore, we practiced the test coverage. Once I decided to implement a small amount of testing for the class that helped store the neural network parameters in the PG database.  After some days of using the application, we understood that after making some changes in the specified entity, this change didn't occur there. Afterwards, I decided to implement more tests and realized that the method used for updating the database entity worked completely wrong.
 
-	- **How did you find them?
+	- **How did you find them?**
 
-	I discovered this problem after some time using the application.
+	_I discovered this problem after some time using the application._
 
 	- **Why do you think these bugs happened?**
 
-	This bug happened, in part, because I hadn't spent enough time implementing tests.
+	_This bug happened, in part, because I hadn't spent enough time implementing tests._
 
 	- **What could you do to avoid them?**
 
-	From the conclusion above, I assume that, to avoid this kind of issue, I could develop more tests.
+	_From the conclusion above, I assume that, to avoid this kind of issue, I could develop more tests._
