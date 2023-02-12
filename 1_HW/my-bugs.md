@@ -1,10 +1,12 @@
 # Describe two of the more interesting program bugs you had in your projects in the past
 
-> Do a “post-mortem” analysis of how you found them, why you think these bugs happened and what you could do to avoid them
+> Do a “post-mortem” analysis of how you found them, 
+> why you think these bugs happened and what you could do to avoid them
 
 
 Throughout our careers as programmers, we may encounter numerous bugs or errors. Some of them can be fixed in a few seconds; others take a lot of time from our lives. Sometimes, after finding hard or stupid mistakes, you can either hate yourself for the time lost or be proud of yourself because your analytical abilities have led to success.
  
+ 
 Therefore, I want to tell you about both kinds of bugs that I usually face:
  
 1) A small, stupid bug that ruined my night. Well, when we had the algorithms course during the last semester, we were so full of the course, therefore some must-have tasks were easy for pretty much everyone. I wasn't an exception. Unfortunately, I once spent the entire night fixing a small and simple solution to a task involving the discovery of components in a graph. The problem was solved only in the morning, when I asked my teacher to see my code. The issue was the obvious fact that the solution should have included the if statement for n == 1. 
