@@ -21,7 +21,7 @@ Therefore, I want to tell you about both kinds of bugs that I usually face:
 
 	- **What could you do to avoid them?**
 
-	_To avoid this problem, I could test my solution against all possible input sizes and spend more time thinking about all possible corner cases before implementing it. _
+	_To avoid this problem, I could test my solution against all possible input sizes and spend more time thinking about all possible corner cases before implementing it._
 
  
 
